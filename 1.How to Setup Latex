@@ -1,0 +1,7 @@
+1. Cài đặt công môi trường Biên dịch:
+- Chọn lựa Miktex hoặc Textlive (nặng)
+- Ưu điểm: textlive chứa hầu như tất cả mọi gói, tránh missing package nhưng nặng.
+- Cài đặt Miktex cho Linux: https://miktex.org/howto/install-miktex-unx
+
+2. Cài đặt IDE:
+- Có thể sử dụng TextStudio, TextMaker, TextNikCenter, Atom, Sublime ....
